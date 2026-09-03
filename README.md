@@ -82,7 +82,7 @@ The goal is to produce reproducible results rather than simply collect jailbreak
 
 ## Proposed AI safety challenges
 
-The current challenge ideas are in [`docs/Ideas.md`](docs/Ideas.md).
+The current challenge ideas are in docs / Ideas.md.
 
 The initial list includes:
 
@@ -90,7 +90,7 @@ The initial list includes:
 2. Prompt injection against a simple AI agent
 3. Long context red teaming
 4. Automated red team test generation
-5. Comparing safety behaviour across open source models
+5. Comparing safety behavior across open-source models
 6. Refusal robustness
 7. Evaluating automated safety evaluations
 8. AI safety and local deployment contexts
