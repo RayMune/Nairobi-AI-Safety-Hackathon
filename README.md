@@ -4,7 +4,7 @@ A two-day hackathon in Nairobi focused on AI safety, model evaluation, and red t
 
 The event will bring together developers, ML practitioners, students, researchers, and people working in AI policy to work on practical problems involving current AI systems.
 
-## What we're organizing
+## What I'm organizing
 
 We are planning a two-day AI safety hackathon in Nairobi.
 
@@ -105,21 +105,21 @@ The initial list includes:
 * Identify potential partners
 * Apply for funding
 
-### October 2026
+### 1st wk October 2026
 
 * Confirm venue
 * Confirm mentors
 * Finalize technical setup
 * Begin participant outreach
 
-### November 2026
+### 2nd wk October 2026
 
 * Open applications
 * Select participants
 * Publish preparation materials
 * Finalize challenges
 
-### December 2026 / January 2027
+### 3rd/4th wk October 2026
 
 * Run the hackathon
 * Publish project outputs
@@ -127,9 +127,9 @@ The initial list includes:
 
 The exact event date will depend on funding, venue availability, and mentor availability.
 
-## Organizing team
+## Chief Organizer
 
-**[Your Name]**
+**[Ray Munene]**
 
 Event organizer responsible for planning, partnerships, participant recruitment, logistics, and event delivery.
 
