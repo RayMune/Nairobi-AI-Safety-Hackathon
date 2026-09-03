@@ -82,7 +82,7 @@ The goal is to produce reproducible results rather than simply collect jailbreak
 
 ## Proposed AI safety challenges
 
-The current challenge ideas are in [`docs/ChallengeIdeas.md`](docs/challenge-ideas.md).
+The current challenge ideas are in [`docs/Ideas.md`](docs/Ideas.md).
 
 The initial list includes:
 
